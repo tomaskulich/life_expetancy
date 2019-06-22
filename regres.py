@@ -1,8 +1,42 @@
 import re
-import math
 from sklearn import linear_model
+import math
 # from sklearn import svm
 # from sklearn.preprocessing import PolynomialFeatures
+
+# https://en.wikipedia.org/wiki/List_of_countries_by_body_mass_index
+def parse_obesity():
+    f = open('inp_obesity.txt')
+    ind = 2
+    lines = f.readlines()
+    res = {}
+    for line in lines:
+        line = line.strip()
+        if line == '|-' or line == '|}':
+            continue
+        line = line.replace('| align=left| ','')
+        line = re.sub(r'\{\{flag\|(.*?)\}\}', r'\1', line)
+        line = [elem.strip() for elem in tuple(line.split('||'))]
+        if line[ind] != '':
+            res[line[0]] = float(line[ind])
+    return res
+
+# https://en.wikipedia.org/wiki/List_of_countries_by_body_mass_index
+def parse_bmi():
+    f = open('inp_bmi.txt')
+    ind = 2
+    lines = f.readlines()
+    res = {}
+    for line in lines:
+        line = line.strip()
+        if line == '|-' or line == '|}':
+            continue
+        line = line.replace('| align=left| ','')
+        line = re.sub(r'\{\{flag\|(.*?)\}\}', r'\1', line)
+        line = [elem.strip() for elem in tuple(line.split('||'))]
+        if line[ind] not in ['', '-']:
+            res[line[0]] = float(line[ind])
+    return res
 
 def parse_life_expectancy():
     f = open('inp_life_expectancy.txt')
@@ -52,6 +86,7 @@ def parse_alcohol():
         res[' '.join(line[0:i])] = float(line[i])
     return res
 
+# https://en.wikipedia.org/wiki/List_of_countries_by_cigarette_consumption_per_capita
 def parse_cigarettes():
     f = open('inp_cigarettes.txt')
     lines = f.readlines()
@@ -61,7 +96,7 @@ def parse_cigarettes():
         if line == '|-' or line == '|}':
             continue
         line = line.split('||')
-        country = re.sub(r'\{\{flagcountry\|(.*?)\}\}', r'\1', line[1].strip()).strip()
+        country = re.sub(r'\{\{flag\|(.*?)\}\}', r'\1', line[1].strip()).strip()
         cigarettes = float(line[2].strip())
         res[country] = cigarettes
     return res
@@ -87,6 +122,22 @@ def parse_traffic():
         res[country] = traffic
     return res
 
+def parse_gdp():
+    f = open('inp_gdp.txt')
+    lines = f.readlines()
+    res = {}
+    for line in lines:
+        line = line.strip().split()
+        i = 0
+        while True:
+            try:
+                float(line[i])
+                break
+            except ValueError:
+                i += 1
+        res[' '.join(line[0:i])] = float(line[i])
+    return res
+
 aliases = [
   ['Russian Federation', 'Russia'],
   ['Slovak Republic', 'Slovakia'],
@@ -109,21 +160,36 @@ aliases = [
   ['Bahamas', 'Bahamas, The'],
 ]
 
-values = {}
+values = {} # {feature_name: {country_name: value}}
 values['life_expectancy'] = parse_life_expectancy()
+values['obesity'] = parse_obesity()
+values['bmi'] = parse_bmi()
 values['spending'] = parse_spending()
 values['alcohol'] = parse_alcohol()
 values['cigarettes'] = parse_cigarettes()
 values['traffic'] = parse_traffic()
+values['gdp'] = parse_gdp()
 
-def expand(vals, deg):
-    res = {}
-    for k, v in vals.items():
-        for i in range(deg):
-            res['%s_%d'%(k, i)] = v ** i
-        if k == 'spending':
-            res['spending_log'] = math.log(v)
-    return res
+def make_normalized():
+    for i, _ in enumerate(features_x):
+        data = [record[i] for record in x] + [record[i] for record in px]
+        mean = sum(data)/len(data)
+        sigma = math.sqrt(sum((v - mean) ** 2 for v in data) / len(data))
+        for record in x + px:
+            record[i] = (record[i] - mean) / sigma
+
+def expand():
+    to_append = []
+    for i, feature_name in enumerate(features_x):
+        if feature_name == 'spending':
+            to_append.append('log_spending')
+            for record in x + px:
+                record.append(math.log(record[i]))
+        #for deg in range(2, 3):
+        #    for record in x + px:
+        #        record.append(record[i] ** deg)
+        #    to_append.append('%s_pow_%d'%(feature_name, deg))
+    features_x.extend(to_append)
 
 def get_value(values, country, values_name = None):
     result = []
@@ -152,21 +218,23 @@ def country_equal(country1, country2):
     return False
 
 
+country_tbp = 'Slovak Republic'
+#country_tbp = 'Switzerland'
+#country_tbp = 'Vietnam'
+
+features_x = ['spending', 'cigarettes', 'alcohol', 'traffic', 'gdp', 'bmi', 'obesity']
+#features_x = ['cigarettes', 'alcohol', 'traffic']
+feature_tbp = 'life_expectancy'
+all_features = features_x + [feature_tbp]
+
 not_have = set()
 for country in values['life_expectancy']:
-    for values_names in ['spending', 'alcohol', 'cigarettes', 'traffic']:
+    for values_names in all_features:
         if get_value(values[values_names], country) == None:
             not_have.add(country)
 
 countries = list(set(values['life_expectancy'].keys()) - not_have)
 
-country_tbp = 'Slovak Republic'
-#country_tbp = 'Switzerland'
-#country_tbp = 'Vietnam'
-
-features_x = ['spending', 'cigarettes', 'alcohol', 'traffic']
-#features_x = ['life_expectancy']
-feature_tbp = 'life_expectancy'
 x = []
 y = []
 for country in countries:
@@ -185,9 +253,10 @@ for values_names in features_x:
 
 px = [px]
 
-print(x)
-x = expand(x, 3)
-px = expand(px, 3)
+expand()
+make_normalized()
+
+#print(x, px, features_x)
 
 #clf = svm.SVR(kernel = 'poly', degree = 1, C=1e4)
 #poly = PolynomialFeatures(degree=2)
@@ -195,21 +264,13 @@ px = expand(px, 3)
 #px = poly.fit_transform(px)
 
 #clf = svm.SVR(kernel='rbf', C=1e3, gamma=0.1)
-#[ 0.46175588  0.23330927 -0.09097151 -0.18364082]
 clf = linear_model.LinearRegression()
+print('countries: %d'%len(countries))
 print(clf.fit(x, y))
-print(clf.score(x,y))
-#print(clf.coef_, clf.intercept_)
-#print(dir(clf))
+print('score: %f'%clf.score(x,y))
+coef = {feature: clf.coef_[i] for i, feature in enumerate(features_x)}
+print(coef, clf.intercept_)
 
 predict = clf.predict(px)
 
 print(predict, get_value(values[feature_tbp], country_tbp))
-
-#from sklearn import svm
-#X = [[0, 0], [1, 1]]
-#y = [0, 1]
-#clf = svm.SVC()
-#print(clf.fit(X, y))
-
-#print(re.sub(r'def\s+([a-zA-Z_][a-zA-Z_0-9]*)\s*\(\s*\):', r'static PyObject*\npy_\1(void)\n{', 'def myfunc():'))

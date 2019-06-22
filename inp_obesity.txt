@@ -1,0 +1,386 @@
+| align=left| {{flag|Nauru}}||1||61.0||1||58.7||1||63.3
+|-
+| align=left| {{flag|Palau}}||3||55.3||3||51.8||3||58.8
+|-
+| align=left| {{flag|Marshall Islands}}||4||52.9||4||48.4||4||57.3
+|-
+| align=left| {{flag|Tuvalu}}||5||51.6||5||47.0||5||56.2
+|-
+| align=left| {{flag|Niue}}||6||50.0||6||44.8||6||55.1
+|-
+| align=left| {{flag|Tonga}}||7||48.2||8||41.4||8||54.5
+|-
+| align=left| {{flag|Samoa}}||8||47.3||10||39.9||7||55.0
+|-
+| align=left| {{flag|Kiribati}}||9||46.0||7||41.6||10||50.4
+|-
+| align=left| {{flag|Micronesia}}||10||45.8||9||40.1||9||51.5
+|-
+| align=left| {{flag|Kuwait}}||11||37.9||12||33.3||11||45.6
+|-
+| align=left| {{flag|United States of America}}||12||36.2||11||35.5||21||37.0
+|-
+| align=left| {{flag|Saudi Arabia}}||13||35.5||19||28.2||13||43.1
+|-
+| align=left| {{flag|Qatar}}||14||35.4||14||30.8||14||42.3
+|-
+| align=left| {{flag|Libya}}||15||35.1||13||32.5||12||43.1
+|-
+| align=left| {{flag|Jordan}}||16||32.5||32||25.0||17||39.6
+|-
+| align=left| {{flag|Turkey}}||17||32.1||37||24.4||19||39.2
+|-
+| align=left| {{flag|Egypt}}||18||32.0||54||22.7||15||41.1
+|-
+| align=left| {{flag|Lebanon}}||18||32.0||22||27.4||22||37.0
+|-
+| align=left| {{flag|United Arab Emirates}}||20||31.7||21||27.5||16||41.0
+|-
+| align=left| {{flag|Bahamas}}||21||31.6||38||24.4||20||38.1
+|-
+| align=left| {{flag|New Zealand}}||22||30.8||15||30.1||38||31.4
+|-
+| align=left| {{flag|Mexico}}||23||30.4||48||23.4||23||37.0
+|-
+| align=left| {{flag|Fiji}}||24||30.2||30||25.1||26||35.3
+|-
+| align=left| {{flag|Bahrain}}||25||29.8||28||25.5||24||36.8
+|-
+| align=left| {{flag|Canada}}||26||29.4||17||29.5||47||29.3
+|-
+| align=left| {{flag|Australia}}||27||29.0||16||29.6||56||28.4
+|-
+| align=left| {{flag|Malta}}||28||28.9||39||24.3||34||32.8
+|-
+| align=left| {{flag|Syria}}||28||28.9||18||29.2||55||28.5
+|-
+| align=left| {{flag|South Africa}}||30||28.3||105||15.4||18||39.6
+|-
+| align=left| {{flag|Argentina}}||30||28.3||23||27.3||49||29.0
+|-
+| align=left| {{flag|Chile}}||32||28.0||33||24.9||40||31.0
+|-
+| align=left| {{flag|Dominica}}||33||27.9||76||19.9||25||35.6
+|-
+| align=left| {{flag|Uruguay}}||33||27.9||34||24.9||42||30.6
+|-
+| align=left| {{flag|Iraq}}||35||27.8||70||20.9||28||34.8
+|-
+| align=left| {{flag|United Kingdom}}||36||27.8||24||26.9||53||28.6
+|-
+| align=left| {{flag|Dominican Republic}}||37||27.6||68||21.0||30||34.1
+|-
+| align=left| {{flag|Algeria}}||38||27.4||77||19.9||27||34.9
+|-
+| align=left| {{flag|Oman}}||39||27.0||53||22.9||31||33.7
+|-
+| align=left| {{flag|Tunisia}}||40||26.9||82||19.1||29||34.3
+|-
+| align=left| {{flag|Suriname}}||41||26.4||83||18.9||32||33.7
+|-
+| align=left| {{flag|Hungary}}||41||26.4||20||28.2||85||24.6
+|-
+| align=left| {{flag|Lithuania}}||43||26.3||40||24.2||57||27.8
+|-
+| align=left| {{flag|Morocco}}||44||26.1||78||19.4||35||32.2
+|-
+| align=left| {{flag|Israel}}||44||26.1||26||25.9||69||26.2
+|-
+| align=left| {{flag|Czechia}}||46||26.0||25||26.4||77||25.4
+|-
+| align=left| {{flag|Iran}}||47||25.8||80||19.3||36||32.2
+|-
+| align=left| {{flag|Costa Rica}}||48||25.7||66||21.1||43||30.4
+|-
+| align=left| {{flag|Venezuela}}||49||25.6||56||22.4||54||28.6
+|-
+| align=left| {{flag|Andorra}}||49||25.6||27||25.9||81||25.3
+|-
+| align=left| {{flag|Ireland}}||51||25.3||31||25.1||76||25.5
+|-
+| align=left| {{flag|Vanuatu}}||52||25.2||74||20.2||45||30.1
+|-
+| align=left| {{flag|Bulgaria}}||53||25.0||29||25.5||87||24.3
+|-
+| align=left| {{flag|Greece}}||54||24.9||41||24.2||78||25.4
+|-
+| align=left| {{flag|Jamaica}}||55||24.7||106||15.3||33||33.4
+|-
+| align=left| {{flag|Cuba}}||56||24.6||84||18.9||44||30.3
+|-
+| align=left| {{flag|El Salvador}}||57||24.6||85||18.9||52||28.9
+|-
+| align=left| {{flag|Belarus}}||58||24.5||59||22.1||68||26.3
+|-
+| align=left| {{flag|Croatia}}||59||24.4||44||24.1||86||24.5
+|-
+| align=left| {{flag|Belize}}||60||24.1||100||16.5||37||31.5
+|-
+| align=left| {{flag|Ukraine}}||61||24.1||60||22.0||74||25.7
+|-
+| align=left| {{flag|Spain}}||62||23.8||35||24.6||95||22.8
+|-
+| align=left| {{flag|Saint Vincent and the Grenadines}}||63||23.7||98||16.6||41||31.0
+|-
+| align=left| {{flag|Nicaragua}}||63||23.7||89||17.9||50||29.0
+|-
+| align=left| {{flag|Latvia}}||65||23.6||64||21.6||83||25.1
+|-
+| align=left| {{flag|Montenegro}}||66||23.3||50||23.3||93||23.1
+|-
+| align=left| {{flag|Barbados}}||67||23.1||111||14.7||39||31.3
+|-
+| align=left| {{flag|Russia}}||68||23.1||88||18.1||62||26.9
+|-
+| align=left| {{flag|Norway}}||68||23.1||47||23.6||97||22.5
+|-
+| align=left| {{flag|Poland}}||68||23.1||45||23.7||98||22.2
+|-
+| align=left| {{flag|Saint Kitts and Nevis}}||71||22.9||107||15.3||46||30.1
+|-
+| align=left| {{flag|Panama}}||72||22.7||92||17.8||58||27.6
+|-
+| align=left| {{flag|Haiti}}||72||22.7||90||17.9||63||26.9
+|-
+| align=left| {{flag|Luxembourg}}||74||22.6||36||24.5||112||20.7
+|-
+| align=left| {{flag|Solomon Islands}}||75||22.5||91||17.9||59||27.1
+|-
+| align=left| {{flag|Romania}}||75||22.5||49||23.4||104||21.6
+|-
+| align=left| {{flag|North Macedonia}}||77||22.4||55||22.6||99||22.1
+|-
+| align=left| {{flag|Colombia}}||78||22.3||93||17.6||66||26.6
+|-
+| align=left| {{flag|Germany}}||79||22.3||42||24.2||115||20.4
+|-
+| align=left| {{flag|Finland}}||80||22.2||46||23.7||113||20.6
+|-
+| align=left| {{flag|Brazil}}||81||22.1||87||18.5||79||25.4
+|-
+| align=left| {{flag|Belgium}}||81||22.1||51||23.1||109||21.0
+|-
+| align=left| {{flag|Iceland}}||83||21.9||43||24.2||120||19.4
+|-
+| align=left| {{flag|Cyprus}}||84||21.8||62||21.9||105||21.6
+|-
+| align=left| {{flag|Georgia}}||85||21.7||81||19.2||89||23.8
+|-
+| align=left| {{flag|Albania}}||85||21.7||65||21.6||101||21.8
+|-
+| align=left| {{flag|France}}||87||21.6||61||22.0||107||21.1
+|-
+| align=left| {{flag|Serbia}}||88||21.5||67||21.1||102||21.8
+|-
+| align=left| {{flag|Honduras}}||89||21.4||104||15.6||64||26.9
+|-
+| align=left| {{flag|Grenada}}||90||21.3||115||13.3||51||29.0
+|-
+| align=left| {{flag|Papua New Guinea}}||91||21.3||99||16.6||73||25.8
+|-
+| align=left| {{flag|Guatemala}}||92||21.2||109||15.1||67||26.4
+|-
+| align=left| {{flag|Estonia}}||92||21.2||72||20.3||103||21.8
+|-
+| align=left| {{flag|Kazakhstan}}||94||21.0||86||18.9||96||22.7
+|-
+| align=left| {{flag|Portugal}}||95||20.8||73||20.3||106||21.2
+|-
+| align=left| {{flag|Mongolia}}||96||20.6||94||17.5||92||23.2
+|-
+| align=left| {{flag|Sweden}}||97||20.6||52||23.1||127||18.1
+|-
+| align=left| {{flag|Slovakia}}||98||20.5||69||21.0||118||19.9
+|-
+| align=left| {{flag|Netherlands}}||99||20.4||71||20.8||117||20.0
+|-
+| align=left| {{flag|Paraguay}}||100||20.3||95||17.1||91||23.4
+|-
+| align=left| {{flag|Guyana}}||101||20.2||117||12.7||60||27.1
+|-
+| align=left| {{flag|Bolivia}}||101||20.2||112||14.5||75||25.6
+|-
+| align=left| {{flag|Armenia}}||101||20.2||96||17.1||94||23.0
+|-
+| align=left| {{flag|Slovenia}}||101||20.2||79||19.4||110||21.0
+|-
+| align=left| {{flag|Austria}}||105||20.1||63||21.9||125||18.3
+|-
+| align=left| {{flag|Ecuador}}||106||19.9||110||14.9||84||24.7
+|-
+| align=left| {{flag|Azerbaijan}}||106||19.9||103||15.8||90||23.6
+|-
+| align=left| {{flag|Italy}}||106||19.9||75||20.1||119||19.5
+|-
+| align=left| {{flag|Saint Lucia}}||109||19.7||119||12.0||61||27.0
+|-
+| align=left| {{flag|Peru}}||109||19.7||108||15.2||88||24.2
+|-
+| align=left| {{flag|Denmark}}||109||19.7||57||22.3||129||17.0
+|-
+| align=left| {{flag|Switzerland}}||112||19.5||58||22.2||130||16.9
+|-
+| align=left| {{flag|Botswana}}||113||18.9||126||8.1||48||29.3
+|-
+| align=left| {{flag|Antigua and Barbuda}}||113||18.9||121||11.6||72||25.9
+|-
+| align=left| {{flag|Moldova}}||113||18.9||101||16.2||108||21.1
+|-
+| align=left| {{flag|Trinidad and Tobago}}||116||18.6||123||10.8||71||26.0
+|-
+| align=left| {{flag|Turkmenistan}}||116||18.6||102||15.9||111||20.9
+|-
+| align=left| {{flag|Bosnia and Herzegovina}}||118||17.9||97||17.1||124||18.4
+|-
+| align=left| {{flag|Namibia}}||119||17.2||128||7.5||80||25.4
+|-
+| align=left| {{flag|Yemen}}||120||17.1||120||12.0||100||22.0
+|-
+| align=left| {{flag|Lesotho}}||121||16.6||152||4.6||65||26.7
+|-
+| align=left| {{flag|Uzbekistan}}||121||16.6||114||13.8||121||19.0
+|-
+| align=left| {{flag|Kyrgyzstan}}||121||16.6||113||14.0||122||18.6
+|-
+| align=left| {{flag|Eswatini}}||124||16.5||144||5.4||70||26.2
+|-
+| align=left| {{flag|Malaysia}}||125||15.6||116||13.0||128||17.9
+|-
+| align=left| {{flag|Zimbabwe}}||126||15.5||149||4.7||82||25.3
+|-
+| align=left| {{flag|Gabon}}||127||15.0||124||9.6||116||20.3
+|-
+| align=left| {{flag|Tajikistan}}||128||14.2||122||11.6||132||16.7
+|-
+| align=left| {{flag|Brunei}}||129||14.1||118||12.5||136||15.7
+|-
+| align=left| {{flag|Seychelles}}||130||14.0||127||7.6||114||20.5
+|-
+| align=left| {{flag|Djibouti}}||131||13.5||125||8.6||126||18.3
+|-
+| align=left| {{flag|Mauritania}}||132||12.7||132||6.6||123||18.5
+|-
+| align=left| {{flag|Sao Tome and Principe}}||133||12.4||129||7.2||131||16.9
+|-
+| align=left| {{flag|Cabo Verde}}||134||11.8||131||6.9||135||16.3
+|-
+| align=left| {{flag|Cameroon}}||135||11.4||133||6.1||134||16.4
+|-
+| align=left| {{flag|Ghana}}||136||10.9||155||4.5||133||16.6
+|-
+| align=left| {{flag|Mauritius}}||137||10.8||140||5.6||137||15.7
+|-
+| align=left| {{flag|Côte d'Ivoire}}||138||10.3||137||5.8||138||15.2
+|-
+| align=left| {{flag|Gambia}}||138||10.3||141||5.6||139||14.8
+|-
+| align=left| {{flag|Thailand}}||140||10.0||130||7.0||147||12.7
+|-
+| align=left| {{flag|Liberia}}||141||9.9||142||5.5||140||14.2
+|-
+| align=left| {{flag|Benin}}||142||9.6||150||4.7||141||14.2
+|-
+| align=left| {{flag|Congo}}||142||9.6||143||5.5||143||13.5
+|-
+| align=left| {{flag|Guinea-Bissau}}||144||9.5||146||5.0||142||13.7
+|-
+| align=left| {{flag|Nigeria}}||145||8.9||153||4.6||145||13.1
+|-
+| align=left| {{flag|Senegal}}||146||8.8||157||4.0||146||12.9
+|-
+| align=left| {{flag|Sierra Leone}}||147||8.7||163||3.8||144||13.3
+|-
+| align=left| {{flag|Mali}}||148||8.6||154||4.6||151||12.4
+|-
+| align=left| {{flag|Sudan}}||148||8.6||164||3.8||152||12.4
+|-
+| align=left| {{flag|Maldives}}||148||8.6||138||5.8||158||11.4
+|-
+| align=left| {{flag|Pakistan}}||148||8.6||135||6.0||159||11.3
+|-
+| align=left| {{flag|Tanzania}}||152||8.4||158||4.0||148||12.7
+|-
+| align=left| {{flag|Togo}}||152||8.4||161||3.9||150||12.5
+|-
+| align=left| {{flag|Somalia}}||154||8.3||162||3.9||154||12.3
+|-
+| align=left| {{flag|Angola}}||155||8.2||159||4.0||156||12.1
+|-
+| align=left| {{flag|Zambia}}||156||8.1||169||3.6||153||12.4
+|-
+| align=left| {{flag|Equatorial Guinea}}||157||8.0||165||3.8||149||12.6
+|-
+| align=left| {{flag|Comoros}}||158||7.8||171||3.3||155||12.2
+|-
+| align=left| {{flag|Guinea}}||159||7.7||166||3.7||157||11.5
+|-
+| align=left| {{flag|Central African Republic}}||160||7.5||167||3.7||161||10.9
+|-
+| align=left| {{flag|Mozambique}}||161||7.2||172||3.3||162||10.5
+|-
+| align=left| {{flag|Kenya}}||162||7.1||177||2.8||160||11.1
+|-
+| align=left| {{flag|Indonesia}}||163||6.9||147||4.8||166||8.9
+|-
+| align=left| {{flag|South Korea}}||164||6.8||134||6.1||177||7.3
+|-
+| align=left| {{flag|Democratic Republic of the Congo}}||165||6.7||170||3.6||163||9.7
+|-
+| align=left| {{flag|Bhutan}}||166||6.4||151||4.7||171||8.5
+|-
+| align=left| {{flag|Philippines}}||166||6.4||145||5.2||175||7.5
+|-
+| align=left| {{flag|China}}||168||6.2||136||5.9||182||6.5
+|-
+| align=left| {{flag|Chad}}||169||6.1||174||3.1||167||8.9
+|-
+| align=left| {{flag|Singapore}}||169||6.1||139||5.8||183||6.3
+|-
+| align=left| {{flag|Rwanda}}||171||5.8||188||1.9||164||9.3
+|-
+| align=left| {{flag|Malawi}}||171||5.8||185||2.2||165||9.1
+|-
+| align=left| {{flag|Myanmar}}||171||5.8||160||4.0||178||7.3
+|-
+| align=left| {{flag|Burkina Faso}}||174||5.6||181||2.6||172||8.1
+|-
+| align=left| {{flag|Niger}}||175||5.5||183||2.5||168||8.7
+|-
+| align=left| {{flag|Afghanistan}}||175||5.5||173||3.2||173||7.6
+|-
+| align=left| {{flag|Burundi}}||177||5.4||186||2.1||169||8.6
+|-
+| align=left| {{flag|Uganda}}||179||5.3||190||1.8||170||8.6
+|-
+| align=left| {{flag|Madagascar}}||179||5.3||175||3.0||176||7.5
+|-
+| align=left| {{flag|Laos}}||178||5.3||168||3.7||181||6.7
+|-
+| align=left| {{flag|Sri Lanka}}||181||5.2||176||2.9||179||7.3
+|-
+| align=left| {{flag|Eritrea}}||182||5.0||187||2.0||174||7.6
+|-
+| align=left| {{flag|North Korea}}||183||4.7||156||4.4||188||4.8
+|-
+| align=left| {{flag|Ethiopia}}||184||4.5||189||1.9||180||6.9
+|-
+| align=left| {{flag|Japan}}||185||4.3||148||4.8||190||3.7
+|-
+| align=left| {{flag|Nepal}}||186||4.1||178||2.7||184||5.4
+|-
+| align=left| {{flag|India}}||187||3.9||180||2.7||185||5.1
+|-
+| align=left| {{flag|Cambodia}}||187||3.9||179||2.7||189||4.8
+|-
+| align=left| {{flag|Timor-Leste}}||189||3.8||182||2.6||187||4.9
+|-
+| align=left| {{flag|Bangladesh}}||190||3.6||184||2.3||186||5.0
+|-
+| align=left| {{flag|Vietnam}}||191||2.1||191||1.6||191||2.6
+|-
+| align=left| {{flag|Monaco}}||||||||||||
+|-
+| align=left| {{flag|San Marino}}||||||||||||
+|-
+| align=left| {{flag|South Sudan}}||||||||||||
+|}
