@@ -1,0 +1,365 @@
+|-
+| 1 || {{flagcountry|Montenegro}} || 4124.53
+|-
+| 2 || {{flagcountry|Belarus}} || 3830.62
+|-
+| 3 || {{flagcountry|Lebanon}} || 3023.15
+|-
+| 4 || {{flagcountry|Macedonia}} || 2732.23
+|-
+| 5 || {{flagcountry|Russia}} || 2690.33
+|-
+| 6 || {{flagcountry|Slovenia}} || 2637.03
+|-
+| 7 || {{flagcountry|Belgium}} || 2353.28
+|-
+| 8 || {{flagcountry|Luxembourg}} || 2283.55
+|-
+| 9 || {{flagcountry|China}} || 2249.79
+|-
+| 10 || {{flagcountry|Bosnia and Herzegovina}} || 2233.46
+|-
+| 11 || {{flagcountry|Czech Republic}} || 2194.01
+|-
+| 12 || {{flagcountry|Kazakhstan}} || 2156.59
+|-
+| 13 || {{flagcountry|Azerbaijan}} || 2114.33
+|-
+| 14 || {{flagcountry|Greece}} || 2086.09
+|-
+| 15 || {{flagcountry|South Korea}} || 2072.57
+|-
+| 16 || {{flagcountry|Austria}} || 1987.52
+|-
+| 17 || {{flagcountry|Jordan}} || 1855.05
+|-
+| 18 || {{flagcountry|Ukraine}} || 1853.66
+|-
+| 19 || {{flagcountry|Estonia}} || 1774.6
+|-
+| 20 || {{flagcountry|Hungary}} || 1758.63
+|-
+| 21 || {{flagcountry|Japan}} || 1713
+|-
+| 22 || {{flagcountry|Croatia}} || 1709.3
+|-
+| 23 || {{flagcountry|Cyprus}} || 1687.56
+|-
+| 24 || {{flagcountry|Serbia }} || 1643.67
+|-
+| 25 || {{flagcountry|Switzerland}} || 1633.86
+|-
+| 26 || {{flagcountry|Tunisia}} || 1628.46
+|-
+| 27 || {{flagcountry|Romania}} || 1619.82
+|-
+| 28 || {{flagcountry|Slovakia}} || 1617.59
+|-
+| 29 || {{flagcountry|Turkey}} || 1580.91
+|-
+| 30 || {{flagcountry|Armenia}} || 1545.13
+|-
+| 31 || {{flagcountry|Kuwait}} || 1517.26
+|-
+| 32 || {{flagcountry|Bulgaria}} || 1504.72
+|-
+| 33 || {{flagcountry|Germany}} || 1480.04
+|-
+| 34 || {{flagcountry|Italy}} || 1442.87
+|-
+| 35 || {{flagcountry|Poland}} || 1396.06
+|-
+| 36 || {{flagcountry|Netherlands}} || 1395.97
+|-
+| 37 || {{flagcountry|Saudi Arabia}} || 1395.14
+|-
+| 38 || {{flagcountry|Cuba}} || 1391.98
+|-
+| 39 || {{flagcountry|Georgia}} || 1378.45
+|-
+| 40 || {{flagcountry|Denmark}} || 1378.23
+|-
+| 41 || {{flagcountry|Argentina}} || 1359.4
+|-
+| 42 || {{flagcountry|Israel}} || 1346.21
+|-
+| 43 || {{flagcountry|Libya}} || 1332.77
+|-
+| 44 || {{flagcountry|Indonesia}} || 1322.3
+|-
+| 45 || {{flagcountry|Philippines}} || 1291.08
+|-
+| 46 || {{flagcountry|Malta}} || 1266.14
+|-
+| 47 || {{flagcountry|Spain}} || 1264.74
+|-
+| 48 || {{flagcountry|Iraq}} || 1226.92
+|-
+| 49 || {{flagcountry|Vietnam}} || 1215.3
+|-
+| 50 || {{flagcountry|Egypt}} || 1187.65
+|-
+| 51 || {{flagcountry|Albania}} || 1177.42
+|-
+| 52 || {{flagcountry|Canada}} || 1154.25
+|-
+| 53 || {{flagcountry|Uruguay}} || 1135.16
+|-
+| 54 || {{flagcountry|Lithuania}} || 1123.86
+|-
+| 55 || {{flagcountry|Moldova}} || 1114.11
+|-
+| 56 || {{flagcountry|Portugal}} || 1112.8
+|-
+| 57 || {{flagcountry|Finland}} || 1083.41
+|-
+| 58 || {{flagcountry|United States}} || 1082.87
+|-
+| 59 || {{flagcountry|Latvia}} || 1041.18
+|-
+| 60 || {{flagcountry|Algeria}} || 1024.09
+|-
+| 61 || {{flagcountry|Brunei}} || 1022.88
+|-
+| 62 || {{flagcountry|France}} || 992.81
+|-
+| 63 || {{flagcountry|Bahrain}} || 968.68
+|-
+| 64 || {{flagcountry|Mongolia}} || 957.2
+|-
+| 65 || {{flagcountry|Australia}} || 955.72
+|-
+| 66 || {{flagcountry|Ireland}} || 953.66
+|-
+| 67 || {{flagcountry|Chile}} || 929.55
+|-
+| 68 || {{flagcountry|Turkmenistan}} || 925
+|-
+| 69 || {{flagcountry|Thailand}} || 895.24
+|-
+| 70 || {{flagcountry|Iran}} || 868.89
+|-
+| 71 || {{flagcountry|Laos}} || 835.51
+|-
+| 72 || {{flagcountry|Sweden}} || 831
+|-
+| 73 || {{flagcountry|United Kingdom}} || 827.48
+|-
+| 74 || {{flagcountry|Papua New Guinea}} || 826.13
+|-
+| 75 || {{flagcountry|Namibia}} || 740.25
+|-
+| 76 || {{flagcountry|United Arab Emirates}} || 715.01
+|-
+| 77 || {{flagcountry|Qatar}} || 697.73
+|-
+| 78 || {{flagcountry|Kyrgyzstan}} || 682.83
+|-
+| 79 || {{flagcountry|New Zealand}} || 679.95
+|-
+| 80 || {{flagcountry|Morocco}} || 671.12
+|-
+| 81 || {{flagcountry|Bangladesh}} || 664.98
+|-
+| 82 || {{flagcountry|Singapore}} || 651.63
+|-
+| 83 || {{flagcountry|Equatorial Guinea}} || 649
+|-
+| 84 || {{flagcountry|Cambodia}} || 644.99
+|-
+| 85 || {{flagcountry|Fiji}} || 617.69
+|-
+| 86 || {{flagcountry|North Korea}} || 609.67
+|-
+| 87 || {{flagcountry|Jamaica}} || 592.95
+|-
+| 88 || {{flagcountry|Seychelles}} || 589.66
+|-
+| 89 || {{flagcountry|Malaysia}} || 583.67
+|-
+| 90 || {{flagcountry|Oman}} || 576.55
+|-
+| 91 || {{flagcountry|Uzbekistan}} || 572.84
+|-
+| 92 || {{flagcountry|Venezuela }} || 565.39
+|-
+| 93 || {{flagcountry|Gabon}} || 559.05
+|-
+| 94 || {{flagcountry|Norway}} || 556.04
+|-
+| 95 || {{flagcountry|Iceland}} || 551.36
+|-
+| 96 || {{flagcountry|South Africa}} || 537.03
+|-
+| 97 || {{flagcountry|Tajikistan}} || 533.04
+|-
+| 98 || {{flagcountry|Cape Verde}} || 514.86
+|-
+| 99 || {{flagcountry|Pakistan}} || 510.59
+|-
+| 100 || {{flagcountry|Senegal}} || 503.9
+|-
+| 101 || {{flagcountry|Brazil}} || 491.78
+|-
+| 102 || {{flagcountry|Honduras}} || 489.01
+|-
+| 103 || {{flagcountry|Angola}} || 488.8
+|-
+| 104 || {{flagcountry|Nicaragua}} || 487.84
+|-
+| 105 || {{flagcountry|Ivory Coast}} || 477.01
+|-
+| 106 || {{flagcountry|Djibouti}} || 475.89
+|-
+| 107 || {{flagcountry|Syria}} || 458.63
+|-
+| 108 || {{flagcountry|Botswana}} || 448.81
+|-
+| 109 || {{flagcountry|Costa Rica}} || 432.33
+|-
+| 110 || {{flagcountry|Sudan}} || 427.75
+|-
+| 111 || {{flagcountry|Swaziland}} || 427.08
+|-
+| 112 || {{flagcountry|Belize}} || 400.1
+|-
+| 113 || {{flagcountry|South Sudan}} || 398.48
+|-
+| 114 || {{flagcountry|Yemen}} || 388.23
+|-
+| 115 || {{flagcountry|Antigua and Barbuda}} || 361.63
+|-
+| 116 || {{flagcountry|Colombia}} || 359.39
+|-
+| 117 || {{flagcountry|Hong Kong}} || 345.32
+|-
+| 118 || {{flagcountry|St. Vincent and the Grenadines}} || 338.29
+|-
+| 119 || {{flagcountry|Barbados}} || 333.09
+|-
+| 120 || {{flagcountry|Mexico}} || 329.26
+|-
+| 121 || {{flagcountry|Sri Lanka}} || 322.44
+|-
+| 122 || {{flagcountry|Sierra Leone}} || 309.58
+|-
+| 123 || {{flagcountry|Bahamas}} || 301.22
+|-
+| 124 || {{flagcountry|Bolivia }} || 299.49
+|-
+| 125 || {{flagcountry|Congo}} || 293.84
+|-
+| 126 || {{flagcountry|Comoros}} || 289.42
+|-
+| 127 || {{flagcountry|El Salvador}} || 280.35
+|-
+| 128 || {{flagcountry|Mauritius}} || 261.4
+|-
+| 129 || {{flagcountry|Kenya}} || 256.57
+|-
+| 130 || {{flagcountry|Togo}} || 249.85
+|-
+| 131 || {{flagcountry|Dominican Republic}} || 245.36
+|-
+| 132 || {{flagcountry|Mali}} || 236.09
+|-
+| 133 || {{flagcountry|St. Lucia}} || 231.55
+|-
+| 134 || {{flagcountry|Grenada}} || 224.33
+|-
+| 135 || {{flagcountry|Panama}} || 224.27
+|-
+| 136 || {{flagcountry|Maldives}} || 215.42
+|-
+| 137 || {{flagcountry|Burkina Faso}} || 213.2
+|-
+| 138 || {{flagcountry|Madagascar}} || 205.82
+|-
+| 139 || {{flagcountry|Myanmar}} || 205.55
+|-
+| 140 || {{flagcountry|Ecuador}} || 190.98
+|-
+| 141 || {{flagcountry|Guatemala}} || 189.5
+|-
+| 142 || {{flagcountry|Cameroon}} || 184.17
+|-
+| 143 || {{flagcountry|Central African Republic}} || 177.76
+|-
+| 144 || {{flagcountry|Guinea-Bissau}} || 174.84
+|-
+| 145 || {{flagcountry|Nigeria}} || 172.68
+|-
+| 146 || {{flagcountry|Paraguay}} || 166
+|-
+| 147 || {{flagcountry|Gambia}} || 165.93
+|-
+| 148 || {{flagcountry|Zambia}} || 164.55
+|-
+| 149 || {{flagcountry|Chad}} || 156.31
+|-
+| 150 || {{flagcountry|Bhutan}} || 155.09
+|-
+| 151 || {{flagcountry|Mauritania}} || 134.92
+|-
+| 152 || {{flagcountry|Zimbabwe}} || 133.53
+|-
+| 153 || {{flagcountry|Benin}} || 122.1
+|-
+| 154 || {{flagcountry|Ghana}} || 120.85
+|-
+| 155 || {{flagcountry|Somalia}} || 116.66
+|-
+| 156 || {{flagcountry|Peru}} || 116.33
+|-
+| 157 || {{flagcountry|Haiti}} || 113.93
+|-
+| 158 || {{flagcountry|Eritrea}} || 113.58
+|-
+| 159 || {{flagcountry|India}} || 110.93
+|-
+| 160 || {{flagcountry|Sao Tome and Principe}} || 110.65
+|-
+| 161 || {{flagcountry|Niger}} || 105.36
+|-
+| 162 || {{flagcountry|Liberia}} || 104.36
+|-
+| 163 || {{flagcountry|Tanzania}} || 101.12
+|-
+| 164 || {{flagcountry|Burundi}} || 97.73
+|-
+| 165 || {{flagcountry|Trinidad and Tobago}} || 97.03
+|-
+| 166 || {{flagcountry|Lesotho}} || 87.69
+|-
+| 167 || {{flagcountry|Afghanistan}} || 83.81
+|-
+| 168 || {{flagcountry|Nepal}} || 83
+|-
+| 169 || {{flagcountry|Mozambique}} || 81.71
+|-
+| 170 || {{flagcountry|Tonga}} || 81.07
+|-
+| 171 || {{flagcountry|Malawi}} || 80.02
+|-
+| 172 || {{flagcountry|Suriname}} || 79.24
+|-
+| 173 || {{flagcountry|Guyana}} || 76.58
+|-
+| 174 || {{flagcountry|Vanuatu}} || 76.2
+|-
+| 175 || {{flagcountry|Ethiopia}} || 75.8
+|-
+| 176 || {{flagcountry|Democratic Republic of the Congo}} || 74.39
+|-
+| 177 || {{flagcountry|Samoa}} || 54.21
+|-
+| 178 || {{flagcountry|Rwanda}} || 53.24
+|-
+| 179 || {{flagcountry|Uganda}} || 41.08
+|-
+| 180 || {{flagcountry|Kiribati}} || 28.03
+|-
+| 181 || {{flagcountry|Solomon Islands}} || 26.42
+|-
+| 182 || {{flagcountry|Guinea}} || 14.96
+|- 

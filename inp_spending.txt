@@ -1,0 +1,425 @@
+|-
+| style="text-align:left" | [[Afghanistan]] ||54 ||58 ||55 
+|-
+| style="text-align:left" | [[Albania]] ||234 ||220 ||240 
+|-
+| style="text-align:left" | [[Algeria]] ||271 ||319 ||314 
+|-
+| style="text-align:left" | [[American Samoa]] ||||||
+|-
+| style="text-align:left" | [[Andorra]] ||3,387 ||3,414 ||2,948 
+|-
+| style="text-align:left" | [[Angola]] ||178 ||190 ||267 
+|-
+| style="text-align:left" | [[Antigua and Barbuda]] ||724 ||727 ||665 
+|-
+| style="text-align:left" | [[Argentina]] ||870 ||994 ||1,074 
+|-
+| style="text-align:left" | [[Armenia]] ||127 ||150 ||159 
+|-
+| style="text-align:left" | [[Aruba]] ||||||
+|-
+| style="text-align:left" | [[Australia]] ||6,209 ||6,393 ||6,110 
+|-
+| style="text-align:left" | [[Austria]] ||5,401 ||5,206 ||5,427 
+|-
+| style="text-align:left" | [[Azerbaijan]] ||359 ||402 ||436 
+|-
+| style="text-align:left" | [[Bahamas, The]] ||1,652 ||1,618 ||1,621 
+|-
+| style="text-align:left" | [[Bahrain]] ||766 ||920 ||1,067 
+|-
+| style="text-align:left" | [[Bangladesh]] ||25 ||26 ||32 
+|-
+| style="text-align:left" | [[Barbados]] ||1,005 ||1,009 ||1,007 
+|-
+| style="text-align:left" | [[Belarus]] ||294 ||339 ||463 
+|-
+| style="text-align:left" | [[Belgium]] ||4,951 ||4,742 ||5,093 
+|-
+| style="text-align:left" | [[Belize]] ||264 ||259 ||262 
+|-
+| style="text-align:left" | [[Benin]] ||37 ||37 ||37 
+|-
+| style="text-align:left" | [[Bermuda]] ||||||
+|-
+| style="text-align:left" | [[Bhutan]] ||120 ||90 ||90 
+|-
+| style="text-align:left" | [[Bolivia]] ||115 ||149 ||174 
+|-
+| style="text-align:left" | [[Bosnia and Herzegovina]] ||471 ||446 ||449 
+|-
+| style="text-align:left" | [[Botswana]] ||404 ||402 ||397 
+|-
+| style="text-align:left" | [[Brazil]] ||1,154 ||1,078 ||1,085 
+|-
+| style="text-align:left" | [[Brunei Darussalam]] ||922 ||946 ||974 
+|-
+| style="text-align:left" | [[Bulgaria]] ||534 ||520 ||555 
+|-
+| style="text-align:left" | [[Burkina Faso]] ||41 ||40 ||46 
+|-
+| style="text-align:left" | [[Burundi]] ||21 ||21 ||21 
+|-
+| style="text-align:left" | [[Cabo Verde]] ||175 ||163 ||165 
+|-
+| style="text-align:left" | [[Cambodia]] ||49 ||69 ||76 
+|-
+| style="text-align:left" | [[Cameroon]] ||64 ||61 ||67 
+|-
+| style="text-align:left" | [[Canada]] ||5,695 ||5,763 ||5,718 
+|-
+| style="text-align:left" | [[Cayman Islands]] ||||||
+|-
+| style="text-align:left" | [[Central African Republic]] ||19 ||18 ||13 
+|-
+| style="text-align:left" | [[Chad]] ||39 ||37 ||37 
+|-
+| style="text-align:left" | [[Chile]] ||1,024 ||1,106 ||1,204 
+|-
+| style="text-align:left" | [[China]] ||274 ||322 ||367 
+|-
+| style="text-align:left" | [[Colombia]] ||466 ||530 ||533 
+|-
+| style="text-align:left" | [[Comoros]] ||51 ||54 ||51 
+|-
+| style="text-align:left" | [[Congo, Dem. Rep.]] ||15 ||15 ||16 
+|-
+| style="text-align:left" | [[Congo, Rep.]] ||95 ||125 ||131 
+|-
+| style="text-align:left" | [[Costa Rica]] ||885 ||952 ||1,005 
+|-
+| style="text-align:left" | [[Cote d'Ivoire]] ||83 ||80 ||87 
+|-
+| style="text-align:left" | [[Croatia]] ||1,045 ||950 ||982 
+|-
+| style="text-align:left" | [[Cuba]] ||648 ||558 ||603 
+|-
+| style="text-align:left" | [[Curacao]] ||||||
+|-
+| style="text-align:left" | [[Cyprus]] ||2,248 ||1,955 ||1,884 
+|-
+| style="text-align:left" | [[Czech Republic]] ||1,546 ||1,411 ||1,367 
+|-
+| style="text-align:left" | [[Denmark]] ||6,522 ||6,204 ||6,270 
+|-
+| style="text-align:left" | [[Djibouti]] ||127 ||139 ||137 
+|-
+| style="text-align:left" | [[Dominica]] ||403 ||399 ||417 
+|-
+| style="text-align:left" | [[Dominican Republic]] ||267 ||310 ||315 
+|-
+| style="text-align:left" | [[Ecuador]] ||304 ||361 ||431 
+|-
+| style="text-align:left" | [[Egypt, Arab Rep.]] ||142 ||158 ||151 
+|-
+| style="text-align:left" | [[El Salvador]] ||252 ||254 ||266 
+|-
+| style="text-align:left" | [[Equatorial Guinea]] ||722 ||769 ||714 
+|-
+| style="text-align:left" | [[Eritrea]] ||13 ||15 ||17 
+|-
+| style="text-align:left" | [[Estonia]] ||988 ||994 ||1,072 
+|-
+| style="text-align:left" | [[Ethiopia]] ||18 ||22 ||25 
+|-
+| style="text-align:left" | [[Faeroe Islands]] ||||||
+|-
+| style="text-align:left" | [[Fiji]] ||170 ||184 ||189 
+|-
+| style="text-align:left" | [[Finland]] ||4,367 ||4,158 ||4,449 
+|-
+| style="text-align:left" | [[France]] ||4,934 ||4,644 ||4,864 
+|-
+| style="text-align:left" | [[French Polynesia]] ||||||
+|-
+| style="text-align:left" | [[Gabon]] ||415 ||399 ||441 
+|-
+| style="text-align:left" | [[Gambia, The]] ||33 ||31 ||29 
+|-
+| style="text-align:left" | [[Georgia (country)|Georgia]] ||310 ||333 ||350 
+|-
+| style="text-align:left" | [[Germany]] ||4,992 ||4,717 ||5,006 
+|-
+| style="text-align:left" | [[Ghana]] ||77 ||86 ||100 
+|-
+| style="text-align:left" | [[Greece]] ||2,551 ||2,070 ||2,146 
+|-
+| style="text-align:left" | [[Greenland]] ||||||
+|-
+| style="text-align:left" | [[Grenada]] ||475 ||471 ||499 
+|-
+| style="text-align:left" | [[Guam]] ||||||
+|-
+| style="text-align:left" | [[Guatemala]] ||207 ||215 ||222 
+|-
+| style="text-align:left" | [[Guinea]] ||18 ||22 ||25 
+|-
+| style="text-align:left" | [[Guinea-Bissau]] ||36 ||31 ||32 
+|-
+| style="text-align:left" | [[Guyana]] ||221 ||235 ||250 
+|-
+| style="text-align:left" | [[Haiti]] ||59 ||73 ||77 
+|-
+| style="text-align:left" | [[Honduras]] ||191 ||221 ||196 
+|-
+| style="text-align:left" | [[Hong Kong SAR, China]] ||||||
+|-
+| style="text-align:left" | [[Hungary]] ||1,105 ||999 ||1,056 
+|-
+| style="text-align:left" | [[Iceland]] ||3,995 ||3,850 ||4,126 
+|-
+| style="text-align:left" | [[India]] ||61 ||58 ||61 
+|-
+| style="text-align:left" | [[Indonesia]] ||99 ||108 ||107 
+|-
+| style="text-align:left" | [[Iran, Islamic Rep.]] ||479 ||485 ||432 
+|-
+| style="text-align:left" | [[Iraq]] ||164 ||282 ||305 
+|-
+| style="text-align:left" | [[Ireland]] ||4,310 ||4,079 ||4,233 
+|-
+| style="text-align:left" | [[Isle of Man]] ||||||
+|-
+| style="text-align:left" | [[Israel]] ||2,426 ||2,393 ||2,599 
+|-
+| style="text-align:left" | [[Italy]] ||3,422 ||3,114 ||3,155 
+|-
+| style="text-align:left" | [[Jamaica]] ||273 ||302 ||305 
+|-
+| style="text-align:left" | [[Japan]] ||4,656 ||4,787 ||3,966 
+|-
+| style="text-align:left" | [[Jordan]] ||391 ||351 ||336 
+|-
+| style="text-align:left" | [[Kazakhstan]] ||474 ||539 ||580 
+|-
+| style="text-align:left" | [[Kenya]] ||35 ||42 ||45 
+|-
+| style="text-align:left" | [[Kiribati]] ||181 ||177 ||166 
+|-
+| style="text-align:left" | [[Korea, Dem. Rep.]] (North) ||||||
+|-
+| style="text-align:left" | [[Korea, Rep.]] (South) ||1,662 ||1,724 ||1,880 
+|-
+| style="text-align:left" | [[Kuwait]] ||1,349 ||1,446 ||1,507 
+|-
+| style="text-align:left" | [[Kyrgyz Republic]] ||71 ||84 ||87 
+|-
+| style="text-align:left" | [[Lao PDR]] ||27 ||27 ||32 
+|-
+| style="text-align:left" | [[Latvia]] ||838 ||820 ||874 
+|-
+| style="text-align:left" | [[Lebanon]] ||638 ||663 ||631 
+|-
+| style="text-align:left" | [[Lesotho]] ||146 ||138 ||123 
+|-
+| style="text-align:left" | [[Liberia]] ||46 ||39 ||44 
+|-
+| style="text-align:left" | [[Libya]] ||317 ||669 ||433 
+|-
+| style="text-align:left" | [[Liechtenstein]] ||||||
+|-
+| style="text-align:left" | [[Lithuania]] ||968 ||939 ||966 
+|-
+| style="text-align:left" | [[Luxembourg]] ||8,391 ||7,551 ||7,981 
+|-
+| style="text-align:left" | [[Macao SAR, China]] ||||||
+|-
+| style="text-align:left" | [[Republic of Macedonia|Macedonia]] ||331 ||314 ||312 
+|-
+| style="text-align:left" | [[Madagascar]] ||18 ||15 ||20 
+|-
+| style="text-align:left" | [[Malawi]] ||39 ||32 ||26 
+|-
+| style="text-align:left" | [[Malaysia]] ||391 ||418 ||423 
+|-
+| style="text-align:left" | [[Maldives]] ||525 ||710 ||720 
+|-
+| style="text-align:left" | [[Mali]] ||51 ||42 ||53 
+|-
+| style="text-align:left" | [[Malta]] ||2,144 ||1,857 ||2,000 
+|-
+| style="text-align:left" | [[Marshall Islands]] ||566 ||589 ||630 
+|-
+| style="text-align:left" | [[Mauritania]] ||39 ||44 ||48 
+|-
+| style="text-align:left" | [[Mauritius]] ||458 ||439 ||463 
+|-
+| style="text-align:left" | [[Mexico]] ||609 ||618 ||664 
+|-
+| style="text-align:left" | [[Micronesia, Fed. Sts.]] ||411 ||404 ||407 
+|-
+| style="text-align:left" | [[Moldova]] ||224 ||241 ||263 
+|-
+| style="text-align:left" | [[Monaco]] ||6,853 ||6,521 ||6,993 
+|-
+| style="text-align:left" | [[Mongolia]] ||190 ||232 ||244 
+|-
+| style="text-align:left" | [[Montenegro]] ||502 ||472 ||461 
+|-
+| style="text-align:left" | [[Morocco]] ||185 ||181 ||189 
+|-
+| style="text-align:left" | [[Mozambique]] ||34 ||33 ||40 
+|-
+| style="text-align:left" | [[Myanmar]] ||19 ||20 ||14 
+|-
+| style="text-align:left" | [[Namibia]] ||482 ||472 ||423 
+|-
+| style="text-align:left" | [[Nepal]] ||41 ||36 ||39 
+|-
+| style="text-align:left" | [[Netherlands]] ||6,048 ||5,836 ||6,145 
+|-
+| style="text-align:left" | [[New Caledonia]] ||||||
+|-
+| style="text-align:left" | [[New Zealand]] ||3,733 ||3,954 ||4,063 
+|-
+| style="text-align:left" | [[Nicaragua]] ||124 ||144 ||155 
+|-
+| style="text-align:left" | [[Niger]] ||26 ||24 ||27 
+|-
+| style="text-align:left" | [[Nigeria]] ||93 ||93 ||115 
+|-
+| style="text-align:left" | [[Northern Mariana Islands]] ||||||
+|-
+| style="text-align:left" | [[Norway]] ||9,261 ||9,312 ||9,715 
+|-
+| style="text-align:left" | [[Oman]] ||574 ||605 ||678 
+|-
+| style="text-align:left" | [[Pakistan]] ||36 ||34 ||37 
+|-
+| style="text-align:left" | [[Palau]] ||922 ||976 ||1,008 
+|-
+| style="text-align:left" | [[Panama]] ||667 ||723 ||796 
+|-
+| style="text-align:left" | [[Papua New Guinea]] ||61 ||97 ||94 
+|-
+| style="text-align:left" | [[Paraguay]] ||354 ||358 ||395 
+|-
+| style="text-align:left" | [[Peru]] ||275 ||368 ||354 
+|-
+| style="text-align:left" | [[Philippines]] ||101 ||115 ||122 
+|-
+| style="text-align:left" | [[Poland]] ||920 ||859 ||895 
+|-
+| style="text-align:left" | [[Portugal]] ||2,332 ||2,000 ||2,037 
+|-
+| style="text-align:left" | [[Puerto Rico]] ||||||
+|-
+| style="text-align:left" | [[Qatar]] ||1,738 ||2,029 ||2,043 
+|-
+| style="text-align:left" | [[Romania]] ||508 ||468 ||504 
+|-
+| style="text-align:left" | [[Russian Federation]] ||895 ||913 ||957 
+|-
+| style="text-align:left" | [[Rwanda]] ||64 ||70 ||71 
+|-
+| style="text-align:left" | [[Samoa]] ||236 ||243 ||271 
+|-
+| style="text-align:left" | [[San Marino]] ||3,636 ||3,877 ||3,847 
+|-
+| style="text-align:left" | [[Sao Tome and Principe]] ||108 ||109 ||110 
+|-
+| style="text-align:left" | [[Saudi Arabia]] ||852 ||992 ||808 
+|-
+| style="text-align:left" | [[Senegal]] ||48 ||44 ||46 
+|-
+| style="text-align:left" | [[Serbia]] ||624 ||556 ||475 
+|-
+| style="text-align:left" | [[Seychelles]] ||393 ||502 ||551 
+|-
+| style="text-align:left" | [[Sierra Leone]] ||58 ||69 ||96 
+|-
+| style="text-align:left" | [[Singapore]] ||2,081 ||2,287 ||2,507 
+|-
+| style="text-align:left" | [[Sint Maarten (Dutch part)]] ||||||
+|-
+| style="text-align:left" | [[Slovak Republic]] ||1,415 ||1,377 ||1,454 
+|-
+| style="text-align:left" | [[Slovenia]] ||2,225 ||2,069 ||2,085 
+|-
+| style="text-align:left" | [[Solomon Islands]] ||81 ||101 ||100 
+|-
+| style="text-align:left" | [[Somalia]] ||||||
+|-
+| style="text-align:left" | [[South Africa]] ||670 ||651 ||593 
+|-
+| style="text-align:left" | [[South Sudan]] ||29 ||25 ||18 
+|-
+| style="text-align:left" | [[Spain]] ||2,944 ||2,626 ||2,581 
+|-
+| style="text-align:left" | [[Sri Lanka]] ||93 ||88 ||102 
+|-
+| style="text-align:left" | [[St. Kitts and Nevis]] ||820 ||892 ||873 
+|-
+| style="text-align:left" | [[St. Lucia]] ||518 ||573 ||621 
+|-
+| style="text-align:left" | [[St. Martin (French part)]] ||||||
+|-
+| style="text-align:left" | [[St. Vincent and the Grenadines]] ||309 ||340 ||345 
+|-
+| style="text-align:left" | [[Sudan]] ||121 ||113 ||115 
+|-
+| style="text-align:left" | [[Suriname]] ||490 ||437 ||445 
+|-
+| style="text-align:left" | [[Swaziland]] ||273 ||265 ||256 
+|-
+| style="text-align:left" | [[Sweden]] ||5,403 ||5,293 ||5,680 
+|-
+| style="text-align:left" | [[Switzerland]] ||9,254 ||9,071 ||9,276 
+|-
+| style="text-align:left" | [[Syrian Arab Republic]] ||97 ||73 ||43 
+|-
+| style="text-align:left" | [[Tajikistan]] ||50 ||61 ||70 
+|-
+| style="text-align:left" | [[Tanzania]] ||39 ||42 ||49 
+|-
+| style="text-align:left" | [[Thailand]] ||214 ||247 ||264 
+|-
+| style="text-align:left" | [[Timor-Leste]] ||38 ||68 ||59 
+|-
+| style="text-align:left" | [[Togo]] ||46 ||48 ||54 
+|-
+| style="text-align:left" | [[Tonga]] ||172 ||197 ||204 
+|-
+| style="text-align:left" | [[Trinidad and Tobago]] ||875 ||991 ||995 
+|-
+| style="text-align:left" | [[Tunisia]] ||300 ||292 ||309 
+|-
+| style="text-align:left" | [[Turkey]] ||556 ||569 ||608 
+|-
+| style="text-align:left" | [[Turkmenistan]] ||113 ||128 ||158 
+|-
+| style="text-align:left" | [[Turks and Caicos Islands]] ||||||
+|-
+| style="text-align:left" | [[Tuvalu]] ||671 ||559 ||704 
+|-
+| style="text-align:left" | [[Uganda]] ||54 ||57 ||59 
+|-
+| style="text-align:left" | [[Ukraine]] ||262 ||290 ||313 
+|-
+| style="text-align:left" | [[United Arab Emirates]] ||1,225 ||1,235 ||1,569 
+|-
+| style="text-align:left" | [[United Kingdom]] ||3,607 ||3,595 ||3,598 
+|-
+| style="text-align:left" | [[United States]] ||8,553 ||8,845 ||9,146 
+|-
+| style="text-align:left" | [[Uruguay]] ||1,138 ||1,265 ||1,431 
+|-
+| style="text-align:left" | [[Uzbekistan]] ||91 ||110 ||120 
+|-
+| style="text-align:left" | [[Vanuatu]] ||125 ||116 ||123 
+|-
+| style="text-align:left" | [[Venezuela, RB]] ||507 ||618 ||520 
+|-
+| style="text-align:left" | [[Vietnam]] ||93 ||102 ||111 
+|-
+| style="text-align:left" | [[Virgin Islands (U.S.)]] ||||||
+|-
+| style="text-align:left" | [[State of Palestine|West Bank and Gaza]] ||||||
+|-
+| style="text-align:left" | [[Yemen, Rep.]] ||67 ||76 ||74 
+|-
+| style="text-align:left" | [[Zambia]] ||77 ||84 ||93 
+|-
+| style="text-align:left" | [[Zimbabwe]] ||||||
+|}

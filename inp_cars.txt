@@ -1,0 +1,383 @@
+|-
+| 1 || {{flag|San Marino}} || 1,263 || 2014<ref name=WorldBank/>
+|-
+| 2 || {{flag|Monaco}} || 899 || 2014<ref name=WorldBank/>
+|-
+| 3 || {{flag|United States}} || 797 || 2014<ref name=WorldBank/>
+|-
+| 4 || {{flag|Liechtenstein}} || 750 || 2014<ref name=WorldBank/> <ref>http://drivesteady.com/cars-per-capita</ref>
+|-
+| 5 || {{flag|Iceland}} || 745 || 2014<ref name=WorldBank/>
+|-
+| 6 || {{flag|Luxembourg}} || 739 || 2014<ref name=WorldBank/>
+|-
+| 7 || {{flag|Australia}} || 736 || 2016<ref>http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/9309.031%20Jan%202016?OpenDocument</ref>
+|-
+| 8 || {{flag|New Zealand}} || 712 || 2014<ref name=WorldBank/>  
+|-
+| 9 || {{flag|Malta}} || 693 || 2014<ref name=WorldBank/>
+|-
+| 10 || {{flag|Italy}} || 679 || 2014<ref name=WorldBank/>    
+|-
+| 11 || {{flag|Guam}} || 677 || 2014<ref>{{cite web|url=http://www.oica.net/wp-content/uploads//total-inuse-2013.pdf |title=World Vehicles In Use All Vehicles|accessdate=2016-02-19}}</ref>   
+|-
+| 12 || {{flag|Canada}} ||662 || 2014<ref name=WorldBank/>   
+|-
+| 13 || {{flag|Greece}} || 624 || 2010<ref name=WorldBank/>
+|-
+| 14 || {{flag|Finland}} || 612 || 2011<ref name=WorldBank/>
+|-
+| 15 || {{flag|Spain}} || 593 || 2014<ref name=WorldBank/>     
+|-
+| 16 || {{flag|Japan}} || 591 || 2014<ref name=WorldBank/>         
+|-
+| 17 || {{flag|Norway}} || 584 || 2014<ref name=WorldBank/>     
+|-
+| 18 || {{flag|Austria}} || 578 ||2014<ref name=WorldBank/>     
+|-
+| 19 || {{flag|France}} || 578 || 2014<ref>{{cite web|url=http://www.ccfa.fr/IMG/pdf/parcautofra1112.pdf|title=CCFA Information Presse|accessdate=2013-01-25}}</ref>  
+|-
+| 20 || {{flag|Germany}} || 572 || 2014<ref name=WorldBank/>         
+|-
+| 21 || {{flag|Slovenia}} || 567 || 2011<ref>http://www.stat.si/novica_prikazi.aspx?id=4724</ref>
+|-
+| 22 || {{flag|Switzerland}} || 566 || 2011<ref name=WorldBank/>   
+|-
+| 23 || {{flag|Lithuania}} || 560 || 2010<ref name=WorldBank/>  
+|-
+| 24 || {{flag|Belgium}} || 559 || 2010<ref name=WorldBank/>
+|-
+| 25 || {{flag|Portugal}} || 548 || 2010<ref>{{cite web |url=http://www.autoinforma.pt/prog/documento.php?documento_id=3275&fazer=abrir |title=Idade e Número de Veículos em Circulação em Portugal em 31-12-10  |publisher=ACAP - Portuguese Automobile Association | accessdate=September 2013}}</ref>
+|-
+| 26 || {{flag|Poland}} || 537 || 2014<ref name=WorldBank/>   
+|-
+| 27 || {{flag|Bahrain}} || 537 || 2009<ref name=WorldBank/>
+|-
+| 28 || {{flag|Qatar}} || 532 || 2007<ref name=WorldBank/>
+|-
+| 29 || {{flag|Cyprus}} || 532 || 2010<ref name=WorldBank/>
+|-
+| 30 || {{flag|Netherlands}} || 528 || 2010<ref name=WorldBank/>
+|-
+| 31 || {{flag|Kuwait}} || 527 || 2010<ref name=WorldBank/>
+|-
+| 32 || {{flag|Sweden}} || 520 || 2010<ref name=WorldBank/>
+|-
+| 33 || {{flag|United Kingdom}} || 519 || 2010<ref name=WorldBank/>
+|-
+| 34 || {{flag|Ireland}} || 513 || 2009<ref name=WorldBank/>
+|-
+| 35 || {{flag|Brunei}} || 510 || 2008<ref name=WorldBank/>
+|-
+| 36 || {{flag|Czech Republic}} || 485 || 2010<ref name=WorldBank/>
+|-
+| 37 || {{flag|Denmark}} || 480 || 2010<ref name=WorldBank/>
+|-
+| 38 || {{flag|Estonia}} || 476 || 2010<ref name=WorldBank/>
+|-
+| 39 || {{flag|Barbados}} || 469 || 2007<ref name=WorldBank/>
+|-
+| 40 || {{flag|Lebanon}} || 434 || <ref name=nm>{{cite web |url=http://www.nationmaster.com/graph/tra_mot_veh-transportation-motor-vehicles |title=Motor vehicles (most recent) by country |publisher=NationMaster.com |accessdate=April 2012}}</ref>
+|-
+| 41 || {{flag|Bulgaria}} || 393 || 2010<ref name=WorldBank/>
+|-
+| 42 || {{flag|Croatia}} || 380 || 2010<ref name=WorldBank/>
+|-
+| 43 || {{flag|South Korea}} || 376 || 2013<ref>http://www.keepeek.com/Digital-Asset-Management/oecd/transport/road-safety-annual-report-2015/korea_irtad-2015-26-en#page3</ref>
+|-
+| 44 || {{flag|Israel}} || 365 || 2015<ref>{{cite web|url=http://cbs.gov.il/reader/newhodaot/hodaa_template.html?hodaa=201627085|title=כלי רכב מנועיים 2015|work=Israel Central Bureau of Statistics}}</ref>
+|-
+| 45 || {{flag|Slovakia}} || 364 || 2010<ref name=WorldBank/>
+|-
+| 46 || {{flag|Belarus}} || 362 || 2010<ref name=WorldBank/>
+|-
+| 47 || {{flag|Malaysia}} || 361 || 2010<ref name=WorldBank/>
+|-
+| 48 || {{flag|Trinidad and Tobago}} || 353 || 2007<ref name=WorldBank/>
+|-
+| 49 || {{flag|Hungary}} || 345 || 2010<ref name=WorldBank/>
+|-
+| 50 || {{flag|Saudi Arabia}} || 336 || <ref name=nm/>
+|-
+| 51 || {{flag|Taiwan}} || 322 || 2014<ref>{{cite web|url=http://stat.motc.gov.tw/mocdb/stmain.jsp?sys=100&funid=e3301|title=Motor Vehicle Registration|publisher=Ministry of Transportation and Communications, R.O.C}}</ref>
+|-
+| 52 || {{flag|Latvia}} || 319 || 2010<ref name=WorldBank/>
+|-
+| 53 || {{flag|Argentina}} || 314 || 2007<ref name=WorldBank/>
+|-
+| 54 || {{flag|United Arab Emirates}} || 313 || 2007<ref name=WorldBank/>
+|-
+| 55 || {{flag|Montenegro}} || 309 || 2011<ref>{{cite web|url=http://www.monstat.org/userfiles/file/saobracaj/registrovana%20vozila/Broj%20prvi%20put%20registrovanih%20motornih%20i%20priklju%C4%8Dnih%20vozila%202011%20PDF.pdf |title=Montenegrin statistical office, 2011 |format=PDF |date= |accessdate=2012-05-23}}</ref>
+|-
+| 56 || {{flag|Russia}} || 293 || 2014<ref>http://www.autonews.ru/automarket_news/news/1791970/?from=look_new#xtor=AL-[internal_traffic]--[rbc.ru]-[main_body]-[item_12]</ref>
+|-
+| 57 || {{flag|Suriname}} || 291 || 2010<ref name=WorldBank/>
+|-
+| 58 || {{flag|Libya}} || 290 || 2007<ref name=WorldBank/>
+|-
+| 59 || {{flag|Mexico}} || 275 || 2010<ref name=WorldBank/>
+|-
+| 60 || {{flag|Turkey}} || 253 || 2014<ref name=TÜİK>{{cite web |url=http://www.tuik.gov.tr/PreHaberBultenleri.do?id=18768 |publisher=TÜİK |accessdate=29 October 2015 |language=Turkish }}</ref>
+|-
+| 61 || {{flag|Brazil}} || 249 || 2011<ref name=denatran>{{cite web |url=http://www.denatran.gov.br/download/frota/FROTA_2011.zip|title=Frota de veículos, por tipo e com placa, segundo as Grandes Regiões e Unidades da Federação - JUL/2011 |publisher=Denatran |date=July 2011 |language=Portuguese }}</ref>
+|-
+| 62 || {{flag|Serbia}} || 238 || 2010<ref name=WorldBank/>
+|-
+| 63 || {{flag|Romania}} || 330 || 2014<ref name="agerpres">{{cite web |url=http://data.gov.ro/dataset/parc-auto-romania | title= Parc auto Romania |date=17 Sep 2016 | language=Romanian}}</ref>
+|-
+| 64 || {{flag|Antigua and Barbuda}} || 230 || 2009<ref name=WorldBank/>
+|-
+| 65 || {{flag|Chile}} || 230 || 2013<ref name=INE>{{cite web|title=Anuarios Parque de Vehiculos en Circulacion |url=http://www.ine.cl/canales/chile_estadistico/estadisticas_economicas/transporte_y_comunicaciones/parquevehiculos.php |publisher=INE |accessdate=29 March 2015 }}</ref>
+|-
+| 66 || {{flag|Saint Kitts and Nevis}} || 223 || <ref name=nm/>
+|-
+| 67 || {{flag|Kazakhstan}} || 219 || 2010<ref name=WorldBank/>
+|-
+| 68 || {{flag|Oman}} || 215 || 2007<ref name=WorldBank/>
+|-
+| 69 || {{flag|Bosnia and Herzegovina}} || 214 ||2010<ref name=WorldBank/>
+|-
+| 70 || {{flag|Thailand}} ||  206 || 2012<ref>{{cite web|url=http://stat.bora.dopa.go.th/stat/y_stat55.html |script-title=th:จำนวนราษฎรทั่วราชอาณาจักร  แยกเป็นกรุงเทพมหานครและจังหวัดต่าง ๆ 	ตามหลักฐานการทะเบียนราษฎร   ณ  วันที่ 31 ธันวาคม 2555 |publisher= สำนักทะเบียนกลาง กรมการปกครอง |date=2013-03-11 |accessdate=2013-10-27|language=th}}</ref><ref>{{cite web|url=http://apps.dlt.go.th/statistics_web/brochure/cumcar12.pdf  |format=PDF |title= Number of Vehicle Registered in Thailand as of 31 December 2012 |publisher= กรมการขนส่งทางบก |date= |accessdate=2013-10-27}}</ref>
+|-
+| 71 || {{flag|Ukraine}} || 202 || 2016<ref>http://www.autoconsulting.com.ua/article.php?sid=35442</ref>
+|-
+| 72 || {{flag|Saint Vincent and the Grenadines}} || 204 || 2008<ref name=WorldBank/>
+|-
+| 73 || {{flag|Uruguay}} || 200 || 2009<ref name=WorldBank/>
+|-
+| 74 || {{flag|Iran}} || 200 || 2012<ref>{{cite web|url=http://fararu.com/fa/news/111648/%D8%B3%D8%B1%D8%A7%D9%86%D9%87-%D8%AE%D9%88%D8%AF%D8%B1%D9%88-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF|title=سرانه خودرو در ایران اعلام شد|work=Fararu}}</ref>
+|-
+| 75 || {{flag|Jamaica}} || 188 || 2010<ref name=WorldBank/>
+|-
+| 76 || {{flag|Fiji}} || 179 || 2010<ref name=WorldBank/>
+|-
+| 77 || {{flag|Costa Rica}} || 177 || 2010<ref name="WorldBank">http://www.nationmaster.com/country-info/stats/Transport/Road/Motor-vehicles-per-1000-people</ref>
+|-
+| 78 || {{flag|Seychelles}} || 176 || 2010<ref name=WorldBank/>
+|-
+| 79 || {{flag|Mauritius}} || 175 || 2010<ref name=WorldBank/>
+|-
+| 80 || {{flag|Belize}} || 174 || 2007<ref name=WorldBank/>
+|-
+| 81 || {{flag|Tonga}} || 174 || <ref name=nm/>
+|-
+| 82 || {{flag|Saint Lucia}} || 166 || <ref name=nm/>
+|-
+| 83 || {{flag|Jordan}} || 165 || 2010<ref name=WorldBank/>
+|-
+| 84 || {{flag|South Africa}} || 165 || 2010<ref name=WorldBank/>
+|-
+| 85 || {{flag|Dominica}} || 163 || <ref name=nm/>
+|-
+| 86 || {{flag|Nauru}} || 159 || 2004<ref>{{cite web|url=http://www.populstat.info/Oceania/naurug.htm |title=Nauru General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 89 || {{flag|Moldova}} || 156 || 2010<ref name=WorldBank/>
+|-
+| 90 || {{flag|Georgia}} || 155 || 2010<ref name=WorldBank/>
+|-
+| 91 || {{flag|Republic of Macedonia}} || 155 || 2009<ref name=WorldBank/>
+|-
+| 92 || {{flag|Kosovo}} || 150 || 2013<ref>{{cite web|url=https://data.worldbank.org/indicator/IS.VEH.NVEH.P3 |title=Motor vehicles (per 1,000 people) |publisher=WorldBank |date= |accessdate=2014-11-03}}</ref>
+|-
+| 93 || {{flag|Colombia}} || 148 ||  2015<ref>[http://www.elespectador.com/noticias/economia/reversazo-de-avaluos-medias-articulo-615825]</ref>
+|-
+| 94 || {{flag|Singapore}} || 149 || 2010<ref name=WorldBank/>
+|-
+| 95 || {{flag|Venezuela}} || 147 || 2007<ref name=WorldBank/>
+|-
+| 96 || {{flag|Kiribati}} || 146 || 2008<ref name=WorldBank/>
+|-
+| 97 || {{flag|Botswana}} || 133 || 2009<ref name=WorldBank/>
+|-
+| 98 || {{flag|Panama}} || 132 || 2010<ref name=WorldBank/>
+|-
+| 99 || {{flag|China}} || 128 || 2015<ref>{{cite web|url=http://auto.people.com.cn/n1/2016/0126/c1005-28086267.html |title=
+|-
+| 100 || {{flag|Dominican Republic}} || 128 || 2009<ref name=WorldBank/>
+|-
+| 101 || {{flag|Tunisia}} || 125 || 2010<ref name=WorldBank/>
+|-
+| 102 || {{flag|Albania}} || 124 || 2010<ref name=WorldBank/>
+|-
+| 103 || {{flag|Grenada}} || 122 || <ref>{{cite web|url=http://www.populstat.info/Americas/grenadag.htm |title=Grenada General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 104 || {{flag|Zimbabwe}} || 114 || 2007<ref name=WorldBank/>
+|-
+| 105 || {{flag|Algeria}} || 114 || 2010<ref name=WorldBank/>
+|-
+| 106 || {{flag|Azerbaijan}} || 112 || 2011<ref name=WorldBank/>
+|-
+| 107 || {{flag|Namibia}} || 107 || 2010<ref name=WorldBank/>
+|-
+| 108 || {{flag|Turkmenistan}} || 106 || 2008<ref name=WorldBank/>
+|-
+| 109 || {{flag|Armenia}} || 101 || 2010 <ref>http://www.who.int/violence_injury_prevention/road_safety_status/2013/country_profiles/armenia.pdf</ref>
+|-
+| 110 || {{flag|Cape Verde}} || 101 || 2007<ref name=WorldBank/>
+|-
+| 111 || {{flag|Honduras}} || 95 || 2008<ref name=WorldBank/>
+|-
+| 112 || {{flag|Guyana}} || 95 || 2008<ref name=WorldBank/>
+|-
+| 113 || {{flag|El Salvador}} || 94 || 2007<ref name=WorldBank/>
+|-
+| 114 || {{flag|Swaziland}} || 89 || 2007<ref name=WorldBank/>
+|-
+| 115 || {{flag|Bahamas}} || 81 || 2007<ref name=WorldBank/>
+|-
+| 116 || {{flag|Hong Kong}} || 77 || 2010<ref name=WorldBank/>
+|-
+| 117 || {{flag|Samoa}} || 77 || 2007<ref name=WorldBank/>
+|-
+| 118 || {{flag|Sri Lanka}} || 76 || 2012<ref>{{cite web|url=http://www.cbsl.gov.lk/pics_n_docs/10_pub/_docs/statistics/other/econ_&_ss_2013_e.pdf}}</ref>
+|-
+| 119 || {{flag|Peru}} || 73 || 2010<ref name=WorldBank/>
+|-
+| 120 || {{flag|Syria}} || 73 || 2010<ref name=WorldBank/>
+|-
+| 121 || {{flag|Mongolia}} || 72 || 2008<ref name=WorldBank/>
+|-
+| 122 || {{flag|Ecuador}} || 71 || 2010<ref name=WorldBank/>
+|-
+| 123 || {{flag|Morocco}} || 70 || 2007<ref name=WorldBank/>
+|-
+| 124 || {{flag|Bolivia}} || 68 || 2007<ref name=WorldBank/>
+|-
+| 125 || {{flag|Guatemala}} || 68 || 2010<ref name=WorldBank/>
+|-
+| 126 || {{flag|Indonesia}} || 69 || 2011<ref name=WorldBank/>
+|-
+| 127 || {{flag|Kyrgyzstan}} || 59 || 2007<ref name=WorldBank/>
+|-
+| 128 || {{flag|Bhutan}} || 57 || 2009<ref name=WorldBank/>
+|-
+| 129 || {{flag|Nicaragua}} || 57 || 2010<ref name=WorldBank/>
+|-
+| 130 || {{flag|Paraguay}} || 54 || 2009<ref name=WorldBank/>
+|-
+| 131 || {{flag|Vanuatu}} || 54 || <ref name=nm/>
+|-
+| 132 || {{flag|Iraq}} || 50 || <ref name=nm/>
+|-
+| 133 || {{flag|Egypt}} || 45 || 2009<ref name=WorldBank/>
+|-
+| 134 || {{flag|Palestine}} || 42 || 2010<ref name=WorldBank/>
+|-
+| 135 || {{flag|Angola}} || 38 || 2007<ref name=WorldBank/>
+|-
+| 136 || {{flag|Cuba}} || 38 || 2008<ref name=WorldBank/>
+|-
+| 137 || {{flag|Tajikistan}} || 38 || 2007<ref name=WorldBank/>
+|-
+| 138 || {{flag|Uzbekistan}} || 37 || 2004<ref>{{cite web|url=http://www.populstat.info/Asia/uzbekisg.htm |title=Uzbekistan General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 139 || {{flag|Micronesia, Federated States of}} || 37 || 2007<ref name=WorldBank/>
+|-
+| 140 || {{flag|Yemen}} || 35 || 2007<ref name=WorldBank/>
+|-
+| 141 || {{flag|Comoros}} || 33 || 2007<ref name=WorldBank/>
+|-
+| 142 || {{flag|Guinea-Bissau}} || 33 || 2008<ref name=WorldBank/>
+|-
+| 143 || {{flag|Nigeria}} || 31 || 2007<ref name=WorldBank/>
+|-
+| 144 || {{flag|Philippines}} || 30 || 2010<ref name=WorldBank/>
+|-
+| 145 || {{flag|Ghana}} || 30 || 2009<ref name=WorldBank/>
+|-
+| 146 || {{flag|Maldives}} || 28 || 2010<ref name=WorldBank/>
+|-
+| 147 || {{flag|Djibouti}} || 28 || <ref name=nm/>
+|-
+| 148 || {{flag|Afghanistan}} || 28 || 2010<ref name=WorldBank/>
+|-
+| 149 || {{flag|Congo, Republic of the}} || 27 || 2007<ref name=WorldBank/>
+|-
+| 150 || {{flag|Sudan}} || 27 || 2007<ref name=WorldBank/>
+|-
+| 151 || {{flag|Madagascar}} || 26 || 2009<ref name=WorldBank/>
+|-
+| 152 || {{flag|Kenya}} || 24 || 2010<ref name=WorldBank/>
+|-
+| 153 || {{flag|Vietnam}} || 23 || 2013 <ref>{{cite web|url=http://songmoi.vn/otoxemay-tin-tuc/luong-xe-may-tai-viet-nam-da-%E2%80%98vo-ke-hoach%E2%80%99-cua-nam-2020}}</ref>
+|-
+| 154 || {{flag|Benin}} || 22 || 2007<ref name=WorldBank/>
+|-
+| 155 || {{flag|Senegal}} || 22 || 2008<ref name=WorldBank/>
+|-
+| 156 || {{flag|Cambodia}} || 21 || 2005<ref name=WorldBank/>
+|-
+| 157 || {{flag|Zambia}} || 21 || 2008<ref name=WorldBank/>
+|-
+| 158 || {{flag|Laos}} || 20 || 2007<ref name=WorldBank/>
+|-
+| 159 || {{flag|Cote d'Ivoire}} || 20 || 2007<ref name=WorldBank/>
+|-
+| 160 || {{flag|India}} || 18 || 2011 <ref>http://www.rediff.com/business/slide-show/slide-show-1-auto-nations-with-most-number-of-cars-per-1000-people/20110909.htm#1</ref>
+|-
+| 161 || {{flag|Pakistan}} || 18 || 2010<ref name=WorldBank/>
+|-
+| 162 || {{flag|Cameroon}} || 14 || 2007<ref name=WorldBank/>
+|-
+| 162 || {{flag|Gabon}} || 14 || 2004<ref>{{cite web|url=http://www.populstat.info/Africa/gabong.htm |title=Gabon General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 163|| {{flag|Mali}} || 14 || 2009<ref name=WorldBank/>
+|-
+| 164 || {{flag|Equatorial Guinea}} || 13 || 2004<ref>{{cite web|url=http://www.populstat.info/Africa/equaguig.htm |title=Equatorial Guinea General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 165 || {{flag|Papua New Guinea}} || 13 || <ref name=nm/>
+|-
+| 166 || {{flag|Haiti}} || 12 || <ref name=nm/>
+|-
+| 167 || {{flag|Mozambique}} || 12 || 2009<ref name=WorldBank/>
+|-
+| 168 || {{flag|Burkina Faso}} || 12 || 2010<ref name=WorldBank/>
+|-
+| 169 || {{flag|Eritrea}} || 11 || 2007<ref name=WorldBank/>
+|-
+| 170 || {{flag|North Korea}} || 11 || 2006<ref>{{cite web|url=http://www.populstat.info/Asia/nkoreag.htm |title=North Korea General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 171 || {{flag|Malawi}} || 8 || 2007<ref name=WorldBank/>
+|-
+| 172 || {{flag|Uganda}} || 8 || 2009<ref name=WorldBank/>
+|-
+| 173 || {{flag|Myanmar}} || 7 || 2010<ref name=WorldBank/>
+|-
+| 174 || {{flag|Tanzania}} || 7 || 2007<ref name=WorldBank/>
+|-
+| 175 || {{flag|Gambia}} || 7 || 2004<ref name=WorldBank/>
+|-
+| 176 || {{flag|Niger}} || 7 || 2009<ref name=WorldBank/>
+|-
+| 177 || {{flag|Burundi}} || 6 || 2007<ref name=WorldBank/>
+|-
+| 178 || {{flag|Sierra Leone}} || 6 || 2008<ref name=WorldBank/>
+|-
+| 179 || {{flag|Chad}} || 6 || 2006<ref name=WorldBank/>
+|-
+| 180 || {{flag|Congo, Democratic Republic of the}} || 5 || 2007<ref name=WorldBank/>
+|-
+| 181 || {{flag|Guinea}} || 5 || <ref name=nm/>
+|-
+| 182 || {{flag|Mauritania}} || 5 || <ref name=nm/>
+|-
+| 183 || {{flag|Nepal}} || 5 || 2007<ref name=WorldBank/>
+|-
+| 184 || {{flag|Central African Republic}} || 4 || <ref name=nm/>
+|-
+| 185 || {{flag|Lesotho}} || 4 || 2004<ref>{{cite web|url=http://www.populstat.info/Africa/lesothog.htm |title=Lesotho General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 186 || {{flag|Ethiopia}} || 3 || 2007<ref name=WorldBank/>
+|-
+| 187 || {{flag|Somalia}} || 3 || <ref name=nm/>
+|-
+| 188 || {{flag|Liberia}} || 3 || 2007<ref name=WorldBank/>
+|-
+| 189 || {{flag|Bangladesh}} || 3 || 2010<ref name=WorldBank/>
+|-
+| 190 || {{flag|Solomon Islands}} || 3 || 2004<ref>{{cite web|url=http://www.populstat.info/Oceania/solomong.htm |title=Solomon Islands General Data |publisher=Populstat.info |date= |accessdate=2012-06-02}}</ref>
+|-
+| 191 || {{flag|São Tomé and Príncipe}} || 2 || 2007<ref name=WorldBank/>
+|-
+| 192 || {{flag|Togo}} || 2 || 2007<ref name=WorldBank/>
+|}

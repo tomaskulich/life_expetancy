@@ -1,0 +1,336 @@
+|-
+| 1 || align="left" | {{flag|United Arab Emirates}} || 39,878 || 2014
+|-
+| 2 || align="left" | {{flag|United States}} || 35,138 || 2013
+|-
+| — || align="left" | {{flag|Hong Kong}} || 33,094 || 2014
+|-
+| 3 || align="left" | {{flag|Switzerland}} || 27,147 || 2013
+|-
+| 4 || align="left" | {{flag|Luxembourg}} || 26,054 || 2013
+|-
+| — || align="left" | {{flag|Bermuda}} || 25,254 || 2011
+|-
+| 5 || align="left" | {{flag|Norway}} || 24,024 || 2014
+|-
+| — || align="left" | {{flag|Macao}} || 23,708 || 2014
+|-
+| 6 || align="left" | {{flag|Germany}} || 23,332 || 2014
+|-
+| 7 || align="left" | {{flag|Canada}} || 23,024 || 2014
+|-
+| 8 || align="left" | {{flag|Austria}} || 22,946 || 2014
+|-
+| 9 || align="left" | {{flag|Australia}} || 22,490 || 2014
+|-
+| 10 || align="left" | {{flag|United Kingdom}} || 22,250 || 2014
+|-
+| 11 || align="left" | {{flag|Singapore}} || 21,101 || 2014
+|-
+| 12 || align="left" | {{flag|Iceland}} || 20,493 || 2014
+|-
+| 13 || align="left" | {{flag|France}} || 20,414 || 2014
+|-
+| 14 || align="left" | {{flag|Japan}} || 20,129 || 2013
+|-
+| 15 || align="left" | {{flag|Sweden}} || 20,089 || 2014
+|-
+| 16 || align="left" | {{flag|Belgium}} || 19,920 || 2014
+|-
+| 17 || align="left" | {{flag|Finland}} || 19,568 || 2014
+|-
+| 18 || align="left" | {{flag|Netherlands}} || 19,072 || 2014
+|-
+| 19 || align="left" | {{flag|Italy}} || 19,055 || 2014
+|-
+| 20 || align="left" | {{flag|Denmark}} || 18,664 || 2014
+|-
+| 21 || align="left" | {{flag|New Zealand}} || 18,148 || 2013
+|-
+| 22 || align="left" | {{flag|Kuwait}} || 17,639 || 2013
+|-
+| 23 || align="left" | {{flag|Israel}} || 17,437 || 2014
+|-
+| 24 || align="left" | {{flag|Ireland}} || 17,212 || 2013
+|-
+| — || align="left" | {{flag|Aruba}} || 17,040 || 2011
+|-
+| 25 || align="left" | {{flag|Spain}} || 16,769 || 2014
+|-
+| — || align="left" | {{flag|Puerto Rico}} || 16,235 || 2013
+|-
+| 26 || align="left" | {{flag|Greece}} || 15,782 || 2014
+|-
+| 27 || align="left" | {{flag|Korea, South}} || 15,720 || 2014
+|-
+| 28 || align="left" | {{flag|Portugal}} || 15,513 || 2014
+|-
+| 29 || align="left" | {{flag|Saudi Arabia}} || 15,124 || 2014
+|-
+| 30 || align="left" | {{flag|Malta}} || 14,820 || 2011
+|-
+| 31 || align="left" | {{flag|Bahrain}} || 14,814 || 2012
+|-
+| 32 || align="left" | {{flag|Lithuania}} || 14,665 || 2014
+|-
+| 33 || align="left" | {{flag|Qatar}} || 14,334 || 2011
+|-
+| 34 || align="left" | {{flag|Cyprus}} || 13,861 || 2014
+|-
+| 35 || align="left" | {{flag|Slovenia}} || 13,566 || 2014
+|-
+| 36 || align="left" | {{flag|Bahamas, The}} || 13,402 || 2014
+|-
+| 37 || align="left" | {{flag|Slovakia}} || 13,175 || 2014
+|-
+| 38 || align="left" | {{flag|Poland}} || 12,977 || 2013
+|-
+| 39 || align="left" | {{flag|Czech Republic}} || 12,946 || 2014
+|-
+| 40 || align="left" | {{flag|Chile}} || 12,915 || 2014
+|-
+| 41 || align="left" | {{flag|Russia}} || 12,877 || 2013
+|-
+| 42 || align="left" | {{flag|Uruguay}} || 12,675 || 2014
+|-
+| 43 || align="left" | {{flag|Brunei}} || 12,609 || 2013
+|-
+| 44 || align="left" | {{flag|Oman}} || 11,996 || 2012
+|-
+| 45 || align="left" | {{flag|Latvia}} || 11,881 || 2014
+|-
+| 46 || align="left" | {{flag|Saint Kitts and Nevis}} || 11,736 || 2011
+|-
+| 47 || align="left" | {{flag|Estonia}} || 11,704 || 2014
+|-
+| 48 || align="left" | {{flag|Cuba}} || 11,665 || 2013
+|-
+| 49 || align="left" | {{flag|Antigua and Barbuda}} || 11,110 || 2011
+|-
+| 50 || align="left" | {{flag|Mauritius}} || 11,067 || 2014
+|-
+| 51 || align="left" | {{flag|Malaysia}} || 10,965 || 2014
+|-
+| 52 || align="left" | {{flag|Turkey}} || 10,820 || 2014
+|-
+| 53 || align="left" | {{flag|Romania}} || 10,791 || 2012
+|-
+| 54 || align="left" | {{flag|Lebanon}} || 10,635 || 2014
+|-
+| 55 || align="left" | {{flag|Hungary}} || 10,487 || 2013
+|-
+| 56 || align="left" | {{flag|Belarus}} || 10,421 || 2014
+|-
+| 57 || align="left" | {{flag|Kazakhstan}} || 10,305 || 2013
+|-
+| 58 || align="left" | {{flag|Panama}} || 10,281 || 2013
+|-
+| 59 || align="left" | {{flag|Croatia}} || 10,231 || 2014
+|-
+| 60 || align="left" | {{flag|Barbados}} || 9,829 || 2011
+|-
+| 61 || align="left" | {{flag|Venezuela}} || 9,510 || 2013
+|-
+| 62 || align="left" | {{flag|Mexico}} || 9,406 || 2014
+|-
+| 63 || align="left" | {{flag|Montenegro}} || 9,386 || 2014
+|-
+| 64 || align="left" | {{flag|Costa Rica}} || 9,299 || 2014
+|-
+| 65 || align="left" | {{flag|Bulgaria}} || 8,884 || 2014
+|-
+| 66 || align="left" | {{flag|Grenada}} || 8,595 || 2011
+|-
+| 67 || align="left" | {{flag|Dominican Republic}} || 8,489 || 2014
+|-
+| 68 || align="left" | {{flag|Brazil}} || 8,319 || 2014
+|-
+| 69 || align="left" | {{flag|Dominica}} || 7,534 || 2011
+|-
+| 70 || align="left" | {{flag|Colombia}} || 7,505 || 2014
+|-
+| 71 || align="left" | {{flag|Jordan}} || 7,413 || 2014
+|-
+| 72 || align="left" | {{flag|Egypt}} || 7,296 || 2014
+|-
+| 73 || align="left" | {{flag|Macedonia}} || 7,237 || 2014
+|-
+| 74 || align="left" | {{flag|Saint Vincent and the Grenadines}} || 7,153 || 2011
+|-
+| 75 || align="left" | {{flag|Thailand}} || 7,084 || 2014
+|-
+| 76 || align="left" | {{flag|South Africa}} || 7,084 || 2014
+|-
+| 77 || align="left" | {{flag|Saint Lucia}} || 6,971 || 2011
+|-
+| 78 || align="left" | {{flag|El Salvador}} || 6,871 || 2013
+|-
+| 79 || align="left" | {{flag|Namibia}} || 6,787 || 2014
+|-
+| 80 || align="left" | {{flag|Peru}} || 6,749 || 2014
+|-
+| 81 || align="left" | {{flag|Bosnia and Herzegovina}} || 6,555 || 2013
+|-
+| 82 || align="left" | {{flag|Azerbaijan}} || 6,431 || 2012
+|-
+| 83 || align="left" | {{flag|Armenia}} || 6,398 || 2014
+|-
+| 84 || align="left" | {{flag|Serbia}} || 6,264 || 2014
+|-
+| 85 || align="left" | {{flag|Ecuador}} || 6,156 || 2014
+|-
+| 86 || align="left" | {{flag|Albania}} || 6,152 || 2014
+|-
+| 87 || align="left" | {{flag|Jamaica}} || 6,041 || 2013
+|-
+| 88 || align="left" | {{flag|Ukraine}} || 6,038 || 2014
+|-
+| 89 || align="left" | {{flag|Tunisia}} || 5,690 || 2011
+|-
+| 90 || align="left" | {{flag|Guatemala}} || 5,668 || 2014
+|-
+| 91 || align="left" | {{flag|Botswana}} || 5,622 || 2014
+|-
+| 92 || align="left" | {{flag|Belize}} || 5,619 || 2013
+|-
+| 93 || align="left" | {{flag|Mongolia}} || 5,617 || 2014
+|-
+| 94 || align="left" | {{flag|Georgia}} || 5,607 || 2014
+|-
+| 95 || align="left" | {{flag|Paraguay}} || 5,470 || 2014
+|-
+| 96 || align="left" | {{flag|Sri Lanka}} || 5,326 || 2011
+|-
+| 97 || align="left" | {{flag|Gabon}} || 5,086 || 2014
+|-
+| 98 || align="left" | {{flag|Indonesia}} || 4,883 || 2014
+|-
+| 99 || align="left" | {{flag|Guyana}} || 4,736 || 2011
+|-
+| 100 || align="left" | {{flag|Philippines}} || 4,527 || 2014
+|-
+| 101 || align="left" | {{flag|Tonga}} || 4,179 || 2011
+|-
+| 102 || align="left" | {{flag|Equatorial Guinea}} || 4,154 || 2014
+|-
+| 103 || align="left" | {{flag|Moldova}} || 3,933 || 2014
+|-
+| 104 || align="left" | {{flag|Nigeria}} || 3,930 || 2013
+|-
+| 105 || align="left" | {{flag|Swaziland}} || 3,917 || 2013
+|-
+| 106 || align="left" | {{flag|China}} || 3,910 || 2013
+|-
+| 107 || align="left" | {{flag|Algeria}} || 3,899 || 2011
+|-
+| 108 || align="left" | {{flag|Nicaragua}} || 3,721 || 2014
+|-
+| 109 || align="left" | {{flag|Bolivia}} || 3,711 || 2013
+|-
+| 110 || align="left" | {{flag|Morocco}} || 3,678 || 2014
+|-
+| 111 || align="left" | {{flag|Honduras}} || 3,600 || 2014
+|-
+| 112 || align="left" | {{flag|Pakistan}} || 3,597 || 2014
+|-
+| 113 || align="left" | {{flag|Palestine, State of}} || 3,405 || 2014
+|-
+| 114 || align="left" | {{flag|Bhutan}} || 3,393 || 2014
+|-
+| 115 || align="left" | {{flag|Angola}} || 3,351 || 2014
+|-
+| 116 || align="left" | {{flag|India}} || 3,149 || 2014
+|-
+| 117 || align="left" | {{flag|Vietnam}} || 3,064 || 2014
+|-
+| 118 || align="left" | {{flag|Kyrgyzstan}} || 2,942 || 2014
+|-
+| 119 || align="left" | {{flag|Laos}} || 2,582 || 2014
+|-
+| 120 || align="left" | {{flag|Lesotho}} || 2,296 || 2013
+|-
+| 121 || align="left" | {{flag|Uzbekistan}} || 2,275 || 2011
+|-
+| 122 || align="left" | {{flag|Kenya}} || 2,228 || 2014
+|-
+| 123 || align="left" | {{flag|Côte d'Ivoire}} || 2,168 || 2013
+|-
+| 124 || align="left" | {{flag|Cambodia}} || 2,144 || 2014
+|-
+| 125 || align="left" | {{flag|Sudan}} || 2,099 || 2014
+|-
+| 126 || align="left" | {{flag|Cameroon}} || 2,083 || 2014
+|-
+| 127 || align="left" | {{flag|Tajikistan}} || 2,056 || 2013
+|-
+| 128 || align="left" | {{flag|São Tomé and Príncipe}} || 2,024 || 2011
+|-
+| 129 || align="left" | {{flag|Bangladesh}} || 1,935 || 2014
+|-
+| 130 || align="left" | {{flag|Congo, Republic of the}} || 1,904 || 2014
+|-
+| 131 || align="left" | {{flag|Zimbabwe}} || 1,794 || 2014
+|-
+| 132 || align="left" | {{flag|Ghana}} || 1,791 || 2013
+|-
+| 133 || align="left" | {{flag|Nepal}} || 1,749 || 2014
+|-
+| 134 || align="left" | {{flag|Mauritania}} || 1,709 || 2014
+|-
+| 135 || align="left" | {{flag|Senegal}} || 1,595 || 2014
+|-
+| 136 || align="left" | {{flag|Togo}} || 1,589 || 2014
+|-
+| 137 || align="left" | {{flag|Vanuatu}} || 1,545 || 2013
+|-
+| 138 || align="left" | {{flag|Afghanistan}} || 1,527 || 2011
+|-
+| 139 || align="left" | {{flag|Comoros}} || 1,418 || 2014
+|-
+| 140 || align="left" | {{flag|Timor-Leste}} || 1,334 || 2012
+|-
+| 141 || align="left" | {{flag|Tanzania}} || 1,331 || 2014
+|-
+| 142 || align="left" | {{flag|South Sudan}} || 1,278 || 2013
+|-
+| 143 || align="left" | {{flag|Chad}} || 1,262 || 2011
+|-
+| 144 || align="left" | {{flag|Benin}} || 1,259 || 2014
+|-
+| 145 || align="left" | {{flag|Gambia, The}} || 1,246 || 2013
+|-
+| 146 || align="left" | {{flag|Rwanda}} || 1,242 || 2014
+|-
+| 147 || align="left" | {{flag|Madagascar}} || 1,140 || 2013
+|-
+| 148 || align="left" | {{flag|Mali}} || 1,112 || 2012
+|-
+| 149 || align="left" | {{flag|Guinea-Bissau}} || 1,072 || 2011
+|-
+| 150 || align="left" | {{flag|Uganda}} || 1,069 || 2014
+|-
+| 151 || align="left" | {{flag|Eritrea}} || 1,040 || 2011
+|-
+| 152 || align="left" | {{flag|Guinea}} || 993 || 2014
+|-
+| 153 || align="left" | {{flag|Sierra Leone}} || 899 || 2014
+|-
+| 154 || align="left" | {{flag|Turkmenistan}} || 832 || 2011
+|-
+| 155 || align="left" | {{flag|Ethiopia}} || 821 || 2014
+|-
+| 156 || align="left" | {{flag|Mozambique}} || 767 || 2013
+|-
+| 157 || align="left" | {{flag|Burkina Faso}} || 704 || 2014
+|-
+| 158 || align="left" | {{flag|Liberia}} || 693 || 2014
+|-
+| 159 || align="left" | {{flag|Central African Republic}} || 615 || 2014
+|-
+| 160 || align="left" | {{flag|Niger}} || 563 || 2014
+|-
+| 161 || align="left" | {{flag|Congo, Democratic Republic of the}} || 510 || 2014
+|-
+| 162 || align="left" | {{flag|Malawi}} || 507 || 2014
+|-
+| 163 || align="left" | {{flag|Burundi}} || 468 || 2014
